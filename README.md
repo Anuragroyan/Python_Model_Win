@@ -50,7 +50,7 @@ The repository contains Python code for developing three different machine learn
 The purpose of this repository is to maintain the Python source code used to develop multiple text-classification models in one place. It provides a foundation for experimenting with NLP and machine learning while preparing trained models for integration into applications such as Android, web, or other client applications.
 
 🚀 Model Integration
-<img width="1536" height="1024" alt="image2" src="https://github.com/user-attachments/assets/693fe9c2-bd2f-4dff-8f1f-74ccd56862dc" />
 
+<img width="1536" height="1024" alt="image2" src="https://github.com/user-attachments/assets/693fe9c2-bd2f-4dff-8f1f-74ccd56862dc" />
 
 This separation between model development and application integration makes the projects easier to maintain, test, reuse, and deploy across different applications.
